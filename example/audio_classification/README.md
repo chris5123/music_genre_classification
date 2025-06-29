@@ -16,13 +16,11 @@ This project is a sample Flutter app that performs real-time music genre classif
 
 ## Screenshots
 
-![Android](screenshots/IMG_2908.jpg)
-
-![Android](screenshots/IMG_2905.jpg)
-
-![Android](screenshots/IMG_2906.jpg)
-
-![Android](screenshots/IMG_2912.jpg)
-
-![Android](screenshots/IMG_2913.jpg)
+<p float="left">
+  <img src="screenshots/IMG_2908.jpg" width="300" />
+  <img src="screenshots/IMG_2905.jpg" width="300" />
+  <img src="screenshots/IMG_2906.jpg" width="300" />
+  <img src="screenshots/IMG_2912.jpg" width="300" />
+  <img src="screenshots/IMG_2913.jpg" width="300" />
+</p>
 
