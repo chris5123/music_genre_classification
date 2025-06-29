@@ -22,9 +22,10 @@ flutter clean
 flutter pub get
 flutter build ios --release
 flutter install
+```
 
 
-## Audio Classification - music_genre_classification
+# Audio Classification - music_genre_classification
 
 |      | Android | iOS | Linux | Mac | Windows | Web |
 |------|---------|-----|-------|-----|---------|-----|
