@@ -47,3 +47,6 @@ This project is a sample Flutter app that performs real-time music genre classif
   <img src="screenshots/IMG_2908.jpg" width="300" />
 </p>
 
+## Reference
+This project is based on the official [TensorFlow Flutter TFLite example](https://github.com/tensorflow/flutter-tflite).
+
