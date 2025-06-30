@@ -45,9 +45,5 @@ This project is a sample Flutter app that performs real-time music genre classif
 
 <p float="left">
   <img src="screenshots/IMG_2908.jpg" width="300" />
-  <img src="screenshots/IMG_2905.jpg" width="300" />
-  <img src="screenshots/IMG_2906.jpg" width="300" />
-  <img src="screenshots/IMG_2912.jpg" width="300" />
-  <img src="screenshots/IMG_2913.jpg" width="300" />
 </p>
 
